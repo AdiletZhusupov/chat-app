@@ -6,6 +6,7 @@ const style = {
 }
 
 function LogOut() {
+    // eslint-disable-next-line
     const signOut = () =>{
         signOut(auth)
     }
